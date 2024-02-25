@@ -1,5 +1,5 @@
   <p align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=IMPACT&size=25&duration=3000&pause=1000&color=F7F7F7&background=00000000&random=false&width=435&lines=Yo+Im+Azuu+A+Python+Programer;And+A+Roblox+Scripter;My+Discord%3Aimjustazuu">
+    <img src="https://readme-typing-svg.demolab.com?font=IMPACT&weight=1&size=35&duration=2000&pause=1000&color=00DDF7&random=false&width=530&height=100&lines=Yo+Im+Azuu+A+Python+Programmer;And+A+Roblox+Scripter;My+Discord%3Aimjustazuu">
   </p>
 
 
@@ -21,7 +21,8 @@ Tools
 
 ![](https://skillicons.dev/icons?i=py)![](https://skillicons.dev/icons?i=lua) (*Learning*)
 
-![Visual Studio Code](https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+![Visual Studio Code](https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) 
 
 -----
 
