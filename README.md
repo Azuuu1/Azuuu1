@@ -1,5 +1,5 @@
   <p align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=IMPACT&weight=1&size=35&duration=2000&pause=1000&color=00DDF7&random=false&width=530&height=100&lines=Yo+Im+Azuu+A+Python+Programmer;And+A+Roblox+Scripter;My+Discord%3Aimjustazuu">
+    <img src="https://readme-typing-svg.demolab.com?font=IMPACT&weight=1&size=35&duration=2000&pause=1000&color=00DDF7&random=false&width=530&height=100&lines=Yo+Im+Azuu+A+Python+Programmer;And+A+Roblox+Scripter;My+Discord%3Aimjustazuu0">
   </p>
 
 
