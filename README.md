@@ -19,7 +19,7 @@
 ----- 
 Tools
 
-![](https://skillicons.dev/icons?i=py)![](https://skillicons.dev/icons?i=lua)![](https://skillicons.dev/icons?i=\html) (*Learning*)
+![](https://skillicons.dev/icons?i=py)![](https://skillicons.dev/icons?i=lua)![](https://skillicons.dev/icons?i=js,html,css) (*Learning*)
 
 
 ![Visual Studio Code](https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) 
