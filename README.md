@@ -2,7 +2,10 @@
     <img src="https://readme-typing-svg.demolab.com?font=IMPACT&weight=1&size=35&duration=2000&pause=1000&color=00DDF7&random=false&width=530&height=100&lines=Yo+Im+Azuu+A+Python+Programmer;And+A+Roblox+Scripter;My+Discord%3Aimjustazuu0">
   </p>
 
-
+<p align="center"> 
+  Visits:<br>
+  <img src="https://komarev.com/ghpvc/?username=Azuuu1&style=for-the-badge"/>
+</p>
 
 
 
@@ -23,6 +26,8 @@ Tools
 
 
 ![Visual Studio Code](https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) 
+
+
 
 -----
 
